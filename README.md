@@ -19,7 +19,7 @@ pip install cvzone
 pip install numpy
 
 ## Run The Code
-Go into pycharm and click on the three bars on top left. Click open... and select the un-zipped file. Run steering.py by doing F10 + Shift or on the top right of the screen
+Go into pycharm and click on the three bars on top left. Click open... and select the un-zipped file. Run main.py by doing F10 + Shift or on the top right of the screen
 
 
 
